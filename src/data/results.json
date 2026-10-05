@@ -1,0 +1,2512 @@
+{
+  "antonelli": [
+    {
+      "race": "Australia",
+      "date": "08 Mar",
+      "team": "Mercedes",
+      "position": "2",
+      "points": 18
+    },
+    {
+      "race": "China",
+      "date": "15 Mar",
+      "team": "Mercedes",
+      "position": "1",
+      "points": 29
+    },
+    {
+      "race": "Japan",
+      "date": "29 Mar",
+      "team": "Mercedes",
+      "position": "1",
+      "points": 25
+    },
+    {
+      "race": "Miami",
+      "date": "03 May",
+      "team": "Mercedes",
+      "position": "1",
+      "points": 28
+    },
+    {
+      "race": "Canada",
+      "date": "24 May",
+      "team": "Mercedes",
+      "position": "1",
+      "points": 31
+    },
+    {
+      "race": "Monaco",
+      "date": "07 Jun",
+      "team": "Mercedes",
+      "position": "1",
+      "points": 25
+    },
+    {
+      "race": "Barcelona-Catalunya",
+      "date": "14 Jun",
+      "team": "Mercedes",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Austria",
+      "date": "28 Jun",
+      "team": "Mercedes",
+      "position": "3",
+      "points": 15
+    },
+    {
+      "race": "Great Britain",
+      "date": "05 Jul",
+      "team": "Mercedes",
+      "position": "15",
+      "points": 8
+    },
+    {
+      "race": "Belgium",
+      "date": "19 Jul",
+      "team": "Mercedes",
+      "position": "1",
+      "points": 25
+    },
+    {
+      "race": "Hungary",
+      "date": "26 Jul",
+      "team": "Mercedes",
+      "position": "3",
+      "points": 15
+    },
+    {
+      "race": "Netherlands",
+      "date": "23 Aug",
+      "team": "Mercedes",
+      "position": "2",
+      "points": 23
+    },
+    {
+      "race": "Italy",
+      "date": "06 Sep",
+      "team": "Mercedes",
+      "position": "1",
+      "points": 25
+    },
+    {
+      "race": "Spain",
+      "date": "13 Sep",
+      "team": "Mercedes",
+      "position": "1",
+      "points": 25
+    },
+    {
+      "race": "Azerbaijan",
+      "date": "26 Sep",
+      "team": "Mercedes",
+      "position": "5",
+      "points": 10
+    },
+    {
+      "race": "Bahrain",
+      "date": "04 Oct",
+      "team": "Mercedes",
+      "position": "2",
+      "points": 18
+    }
+  ],
+  "russell": [
+    {
+      "race": "Australia",
+      "date": "08 Mar",
+      "team": "Mercedes",
+      "position": "1",
+      "points": 25
+    },
+    {
+      "race": "China",
+      "date": "15 Mar",
+      "team": "Mercedes",
+      "position": "2",
+      "points": 26
+    },
+    {
+      "race": "Japan",
+      "date": "29 Mar",
+      "team": "Mercedes",
+      "position": "4",
+      "points": 12
+    },
+    {
+      "race": "Miami",
+      "date": "03 May",
+      "team": "Mercedes",
+      "position": "4",
+      "points": 17
+    },
+    {
+      "race": "Canada",
+      "date": "24 May",
+      "team": "Mercedes",
+      "position": "DNF",
+      "points": 8
+    },
+    {
+      "race": "Monaco",
+      "date": "07 Jun",
+      "team": "Mercedes",
+      "position": "12",
+      "points": 0
+    },
+    {
+      "race": "Barcelona-Catalunya",
+      "date": "14 Jun",
+      "team": "Mercedes",
+      "position": "2",
+      "points": 18
+    },
+    {
+      "race": "Austria",
+      "date": "28 Jun",
+      "team": "Mercedes",
+      "position": "1",
+      "points": 25
+    },
+    {
+      "race": "Great Britain",
+      "date": "05 Jul",
+      "team": "Mercedes",
+      "position": "2",
+      "points": 23
+    },
+    {
+      "race": "Belgium",
+      "date": "19 Jul",
+      "team": "Mercedes",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Hungary",
+      "date": "26 Jul",
+      "team": "Mercedes",
+      "position": "7",
+      "points": 6
+    },
+    {
+      "race": "Netherlands",
+      "date": "23 Aug",
+      "team": "Mercedes",
+      "position": "3",
+      "points": 23
+    },
+    {
+      "race": "Italy",
+      "date": "06 Sep",
+      "team": "Mercedes",
+      "position": "2",
+      "points": 18
+    },
+    {
+      "race": "Spain",
+      "date": "13 Sep",
+      "team": "Mercedes",
+      "position": "5",
+      "points": 10
+    },
+    {
+      "race": "Azerbaijan",
+      "date": "26 Sep",
+      "team": "Mercedes",
+      "position": "1",
+      "points": 25
+    },
+    {
+      "race": "Bahrain",
+      "date": "04 Oct",
+      "team": "Mercedes",
+      "position": "DNF",
+      "points": 0
+    }
+  ],
+  "hamilton": [
+    {
+      "race": "Australia",
+      "date": "08 Mar",
+      "team": "Ferrari",
+      "position": "4",
+      "points": 12
+    },
+    {
+      "race": "China",
+      "date": "15 Mar",
+      "team": "Ferrari",
+      "position": "3",
+      "points": 21
+    },
+    {
+      "race": "Japan",
+      "date": "29 Mar",
+      "team": "Ferrari",
+      "position": "6",
+      "points": 8
+    },
+    {
+      "race": "Miami",
+      "date": "03 May",
+      "team": "Ferrari",
+      "position": "6",
+      "points": 10
+    },
+    {
+      "race": "Canada",
+      "date": "24 May",
+      "team": "Ferrari",
+      "position": "2",
+      "points": 21
+    },
+    {
+      "race": "Monaco",
+      "date": "07 Jun",
+      "team": "Ferrari",
+      "position": "2",
+      "points": 18
+    },
+    {
+      "race": "Barcelona-Catalunya",
+      "date": "14 Jun",
+      "team": "Ferrari",
+      "position": "1",
+      "points": 25
+    },
+    {
+      "race": "Austria",
+      "date": "28 Jun",
+      "team": "Ferrari",
+      "position": "5",
+      "points": 10
+    },
+    {
+      "race": "Great Britain",
+      "date": "05 Jul",
+      "team": "Ferrari",
+      "position": "3",
+      "points": 22
+    },
+    {
+      "race": "Belgium",
+      "date": "19 Jul",
+      "team": "Ferrari",
+      "position": "4",
+      "points": 12
+    },
+    {
+      "race": "Hungary",
+      "date": "26 Jul",
+      "team": "Ferrari",
+      "position": "5",
+      "points": 10
+    },
+    {
+      "race": "Netherlands",
+      "date": "23 Aug",
+      "team": "Ferrari",
+      "position": "4",
+      "points": 14
+    },
+    {
+      "race": "Italy",
+      "date": "06 Sep",
+      "team": "Ferrari",
+      "position": "6",
+      "points": 8
+    },
+    {
+      "race": "Spain",
+      "date": "13 Sep",
+      "team": "Ferrari",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Azerbaijan",
+      "date": "26 Sep",
+      "team": "Ferrari",
+      "position": "6",
+      "points": 8
+    },
+    {
+      "race": "Bahrain",
+      "date": "04 Oct",
+      "team": "Ferrari",
+      "position": "3",
+      "points": 15
+    }
+  ],
+  "leclerc": [
+    {
+      "race": "Australia",
+      "date": "08 Mar",
+      "team": "Ferrari",
+      "position": "3",
+      "points": 15
+    },
+    {
+      "race": "China",
+      "date": "15 Mar",
+      "team": "Ferrari",
+      "position": "4",
+      "points": 19
+    },
+    {
+      "race": "Japan",
+      "date": "29 Mar",
+      "team": "Ferrari",
+      "position": "3",
+      "points": 15
+    },
+    {
+      "race": "Miami",
+      "date": "03 May",
+      "team": "Ferrari",
+      "position": "8",
+      "points": 10
+    },
+    {
+      "race": "Canada",
+      "date": "24 May",
+      "team": "Ferrari",
+      "position": "4",
+      "points": 16
+    },
+    {
+      "race": "Monaco",
+      "date": "07 Jun",
+      "team": "Ferrari",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Barcelona-Catalunya",
+      "date": "14 Jun",
+      "team": "Ferrari",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Austria",
+      "date": "28 Jun",
+      "team": "Ferrari",
+      "position": "8",
+      "points": 4
+    },
+    {
+      "race": "Great Britain",
+      "date": "05 Jul",
+      "team": "Ferrari",
+      "position": "1",
+      "points": 29
+    },
+    {
+      "race": "Belgium",
+      "date": "19 Jul",
+      "team": "Ferrari",
+      "position": "2",
+      "points": 18
+    },
+    {
+      "race": "Hungary",
+      "date": "26 Jul",
+      "team": "Ferrari",
+      "position": "4",
+      "points": 12
+    },
+    {
+      "race": "Netherlands",
+      "date": "23 Aug",
+      "team": "Ferrari",
+      "position": "5",
+      "points": 17
+    },
+    {
+      "race": "Italy",
+      "date": "06 Sep",
+      "team": "Ferrari",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Spain",
+      "date": "13 Sep",
+      "team": "Ferrari",
+      "position": "4",
+      "points": 12
+    },
+    {
+      "race": "Azerbaijan",
+      "date": "26 Sep",
+      "team": "Ferrari",
+      "position": "4",
+      "points": 12
+    },
+    {
+      "race": "Bahrain",
+      "date": "04 Oct",
+      "team": "Ferrari",
+      "position": "4",
+      "points": 12
+    }
+  ],
+  "norris": [
+    {
+      "race": "Australia",
+      "date": "08 Mar",
+      "team": "McLaren",
+      "position": "5",
+      "points": 10
+    },
+    {
+      "race": "China",
+      "date": "15 Mar",
+      "team": "McLaren",
+      "position": "DNS",
+      "points": 5
+    },
+    {
+      "race": "Japan",
+      "date": "29 Mar",
+      "team": "McLaren",
+      "position": "5",
+      "points": 10
+    },
+    {
+      "race": "Miami",
+      "date": "03 May",
+      "team": "McLaren",
+      "position": "2",
+      "points": 26
+    },
+    {
+      "race": "Canada",
+      "date": "24 May",
+      "team": "McLaren",
+      "position": "DNF",
+      "points": 7
+    },
+    {
+      "race": "Monaco",
+      "date": "07 Jun",
+      "team": "McLaren",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Barcelona-Catalunya",
+      "date": "14 Jun",
+      "team": "McLaren",
+      "position": "3",
+      "points": 15
+    },
+    {
+      "race": "Austria",
+      "date": "28 Jun",
+      "team": "McLaren",
+      "position": "7",
+      "points": 6
+    },
+    {
+      "race": "Great Britain",
+      "date": "05 Jul",
+      "team": "McLaren",
+      "position": "4",
+      "points": 18
+    },
+    {
+      "race": "Belgium",
+      "date": "19 Jul",
+      "team": "McLaren",
+      "position": "7",
+      "points": 6
+    },
+    {
+      "race": "Hungary",
+      "date": "26 Jul",
+      "team": "McLaren",
+      "position": "1",
+      "points": 25
+    },
+    {
+      "race": "Netherlands",
+      "date": "23 Aug",
+      "team": "McLaren",
+      "position": "1",
+      "points": 31
+    },
+    {
+      "race": "Italy",
+      "date": "06 Sep",
+      "team": "McLaren",
+      "position": "4",
+      "points": 12
+    },
+    {
+      "race": "Spain",
+      "date": "13 Sep",
+      "team": "McLaren",
+      "position": "3",
+      "points": 15
+    },
+    {
+      "race": "Azerbaijan",
+      "date": "26 Sep",
+      "team": "McLaren",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Bahrain",
+      "date": "04 Oct",
+      "team": "McLaren",
+      "position": "9",
+      "points": 2
+    }
+  ],
+  "verstappen": [
+    {
+      "race": "Australia",
+      "date": "08 Mar",
+      "team": "Red Bull Racing",
+      "position": "6",
+      "points": 8
+    },
+    {
+      "race": "China",
+      "date": "15 Mar",
+      "team": "Red Bull Racing",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Japan",
+      "date": "29 Mar",
+      "team": "Red Bull Racing",
+      "position": "8",
+      "points": 4
+    },
+    {
+      "race": "Miami",
+      "date": "03 May",
+      "team": "Red Bull Racing",
+      "position": "5",
+      "points": 14
+    },
+    {
+      "race": "Canada",
+      "date": "24 May",
+      "team": "Red Bull Racing",
+      "position": "3",
+      "points": 17
+    },
+    {
+      "race": "Monaco",
+      "date": "07 Jun",
+      "team": "Red Bull Racing",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Barcelona-Catalunya",
+      "date": "14 Jun",
+      "team": "Red Bull Racing",
+      "position": "4",
+      "points": 12
+    },
+    {
+      "race": "Austria",
+      "date": "28 Jun",
+      "team": "Red Bull Racing",
+      "position": "2",
+      "points": 18
+    },
+    {
+      "race": "Great Britain",
+      "date": "05 Jul",
+      "team": "Red Bull Racing",
+      "position": "DNF",
+      "points": 3
+    },
+    {
+      "race": "Belgium",
+      "date": "19 Jul",
+      "team": "Red Bull Racing",
+      "position": "3",
+      "points": 15
+    },
+    {
+      "race": "Hungary",
+      "date": "26 Jul",
+      "team": "Red Bull Racing",
+      "position": "2",
+      "points": 18
+    },
+    {
+      "race": "Netherlands",
+      "date": "23 Aug",
+      "team": "Red Bull Racing",
+      "position": "DNF",
+      "points": 3
+    },
+    {
+      "race": "Italy",
+      "date": "06 Sep",
+      "team": "Red Bull Racing",
+      "position": "3",
+      "points": 15
+    },
+    {
+      "race": "Spain",
+      "date": "13 Sep",
+      "team": "Red Bull Racing",
+      "position": "2",
+      "points": 18
+    },
+    {
+      "race": "Azerbaijan",
+      "date": "26 Sep",
+      "team": "Red Bull Racing",
+      "position": "2",
+      "points": 18
+    },
+    {
+      "race": "Bahrain",
+      "date": "04 Oct",
+      "team": "Red Bull Racing",
+      "position": "1",
+      "points": 25
+    }
+  ],
+  "piastri": [
+    {
+      "race": "Australia",
+      "date": "08 Mar",
+      "team": "McLaren",
+      "position": "DNS",
+      "points": 0
+    },
+    {
+      "race": "China",
+      "date": "15 Mar",
+      "team": "McLaren",
+      "position": "DNS",
+      "points": 3
+    },
+    {
+      "race": "Japan",
+      "date": "29 Mar",
+      "team": "McLaren",
+      "position": "2",
+      "points": 18
+    },
+    {
+      "race": "Miami",
+      "date": "03 May",
+      "team": "McLaren",
+      "position": "3",
+      "points": 22
+    },
+    {
+      "race": "Canada",
+      "date": "24 May",
+      "team": "McLaren",
+      "position": "11",
+      "points": 5
+    },
+    {
+      "race": "Monaco",
+      "date": "07 Jun",
+      "team": "McLaren",
+      "position": "4",
+      "points": 12
+    },
+    {
+      "race": "Barcelona-Catalunya",
+      "date": "14 Jun",
+      "team": "McLaren",
+      "position": "5",
+      "points": 10
+    },
+    {
+      "race": "Austria",
+      "date": "28 Jun",
+      "team": "McLaren",
+      "position": "4",
+      "points": 12
+    },
+    {
+      "race": "Great Britain",
+      "date": "05 Jul",
+      "team": "McLaren",
+      "position": "11",
+      "points": 2
+    },
+    {
+      "race": "Belgium",
+      "date": "19 Jul",
+      "team": "McLaren",
+      "position": "5",
+      "points": 10
+    },
+    {
+      "race": "Hungary",
+      "date": "26 Jul",
+      "team": "McLaren",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Netherlands",
+      "date": "23 Aug",
+      "team": "McLaren",
+      "position": "6",
+      "points": 12
+    },
+    {
+      "race": "Italy",
+      "date": "06 Sep",
+      "team": "McLaren",
+      "position": "5",
+      "points": 10
+    },
+    {
+      "race": "Spain",
+      "date": "13 Sep",
+      "team": "McLaren",
+      "position": "8",
+      "points": 4
+    },
+    {
+      "race": "Azerbaijan",
+      "date": "26 Sep",
+      "team": "McLaren",
+      "position": "13",
+      "points": 0
+    },
+    {
+      "race": "Bahrain",
+      "date": "04 Oct",
+      "team": "McLaren",
+      "position": "6",
+      "points": 8
+    }
+  ],
+  "hadjar": [
+    {
+      "race": "Australia",
+      "date": "08 Mar",
+      "team": "Red Bull Racing",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "China",
+      "date": "15 Mar",
+      "team": "Red Bull Racing",
+      "position": "8",
+      "points": 4
+    },
+    {
+      "race": "Japan",
+      "date": "29 Mar",
+      "team": "Red Bull Racing",
+      "position": "12",
+      "points": 0
+    },
+    {
+      "race": "Miami",
+      "date": "03 May",
+      "team": "Red Bull Racing",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Canada",
+      "date": "24 May",
+      "team": "Red Bull Racing",
+      "position": "5",
+      "points": 10
+    },
+    {
+      "race": "Monaco",
+      "date": "07 Jun",
+      "team": "Red Bull Racing",
+      "position": "3",
+      "points": 15
+    },
+    {
+      "race": "Barcelona-Catalunya",
+      "date": "14 Jun",
+      "team": "Red Bull Racing",
+      "position": "6",
+      "points": 8
+    },
+    {
+      "race": "Austria",
+      "date": "28 Jun",
+      "team": "Red Bull Racing",
+      "position": "6",
+      "points": 8
+    },
+    {
+      "race": "Great Britain",
+      "date": "05 Jul",
+      "team": "Red Bull Racing",
+      "position": "5",
+      "points": 10
+    },
+    {
+      "race": "Belgium",
+      "date": "19 Jul",
+      "team": "Red Bull Racing",
+      "position": "6",
+      "points": 8
+    },
+    {
+      "race": "Hungary",
+      "date": "26 Jul",
+      "team": "Red Bull Racing",
+      "position": "6",
+      "points": 8
+    },
+    {
+      "race": "Azerbaijan",
+      "date": "26 Sep",
+      "team": "Red Bull Racing",
+      "position": "3",
+      "points": 15
+    },
+    {
+      "race": "Bahrain",
+      "date": "04 Oct",
+      "team": "Red Bull Racing",
+      "position": "5",
+      "points": 10
+    }
+  ],
+  "lawson": [
+    {
+      "race": "Australia",
+      "date": "08 Mar",
+      "team": "Racing Bulls",
+      "position": "13",
+      "points": 0
+    },
+    {
+      "race": "China",
+      "date": "15 Mar",
+      "team": "Racing Bulls",
+      "position": "7",
+      "points": 8
+    },
+    {
+      "race": "Japan",
+      "date": "29 Mar",
+      "team": "Racing Bulls",
+      "position": "9",
+      "points": 2
+    },
+    {
+      "race": "Miami",
+      "date": "03 May",
+      "team": "Racing Bulls",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Canada",
+      "date": "24 May",
+      "team": "Racing Bulls",
+      "position": "7",
+      "points": 6
+    },
+    {
+      "race": "Monaco",
+      "date": "07 Jun",
+      "team": "Racing Bulls",
+      "position": "5",
+      "points": 10
+    },
+    {
+      "race": "Barcelona-Catalunya",
+      "date": "14 Jun",
+      "team": "Racing Bulls",
+      "position": "8",
+      "points": 4
+    },
+    {
+      "race": "Austria",
+      "date": "28 Jun",
+      "team": "Racing Bulls",
+      "position": "9",
+      "points": 2
+    },
+    {
+      "race": "Great Britain",
+      "date": "05 Jul",
+      "team": "Racing Bulls",
+      "position": "6",
+      "points": 9
+    },
+    {
+      "race": "Belgium",
+      "date": "19 Jul",
+      "team": "Racing Bulls",
+      "position": "12",
+      "points": 0
+    },
+    {
+      "race": "Hungary",
+      "date": "26 Jul",
+      "team": "Racing Bulls",
+      "position": "8",
+      "points": 4
+    },
+    {
+      "race": "Netherlands",
+      "date": "23 Aug",
+      "team": "Red Bull Racing",
+      "position": "7",
+      "points": 6
+    },
+    {
+      "race": "Italy",
+      "date": "06 Sep",
+      "team": "Red Bull Racing",
+      "position": "14",
+      "points": 0
+    },
+    {
+      "race": "Spain",
+      "date": "13 Sep",
+      "team": "Red Bull Racing",
+      "position": "6",
+      "points": 8
+    },
+    {
+      "race": "Azerbaijan",
+      "date": "26 Sep",
+      "team": "Racing Bulls",
+      "position": "12",
+      "points": 0
+    },
+    {
+      "race": "Bahrain",
+      "date": "04 Oct",
+      "team": "Racing Bulls",
+      "position": "7",
+      "points": 6
+    }
+  ],
+  "gasly": [
+    {
+      "race": "Australia",
+      "date": "08 Mar",
+      "team": "Alpine",
+      "position": "10",
+      "points": 1
+    },
+    {
+      "race": "China",
+      "date": "15 Mar",
+      "team": "Alpine",
+      "position": "6",
+      "points": 8
+    },
+    {
+      "race": "Japan",
+      "date": "29 Mar",
+      "team": "Alpine",
+      "position": "7",
+      "points": 6
+    },
+    {
+      "race": "Miami",
+      "date": "03 May",
+      "team": "Alpine",
+      "position": "DNF",
+      "points": 1
+    },
+    {
+      "race": "Canada",
+      "date": "24 May",
+      "team": "Alpine",
+      "position": "8",
+      "points": 4
+    },
+    {
+      "race": "Monaco",
+      "date": "07 Jun",
+      "team": "Alpine",
+      "position": "7",
+      "points": 6
+    },
+    {
+      "race": "Barcelona-Catalunya",
+      "date": "14 Jun",
+      "team": "Alpine",
+      "position": "7",
+      "points": 6
+    },
+    {
+      "race": "Austria",
+      "date": "28 Jun",
+      "team": "Alpine",
+      "position": "13",
+      "points": 0
+    },
+    {
+      "race": "Great Britain",
+      "date": "05 Jul",
+      "team": "Alpine",
+      "position": "10",
+      "points": 1
+    },
+    {
+      "race": "Belgium",
+      "date": "19 Jul",
+      "team": "Alpine",
+      "position": "11",
+      "points": 0
+    },
+    {
+      "race": "Hungary",
+      "date": "26 Jul",
+      "team": "Alpine",
+      "position": "12",
+      "points": 0
+    },
+    {
+      "race": "Netherlands",
+      "date": "23 Aug",
+      "team": "Alpine",
+      "position": "10",
+      "points": 2
+    },
+    {
+      "race": "Italy",
+      "date": "06 Sep",
+      "team": "Alpine",
+      "position": "7",
+      "points": 6
+    },
+    {
+      "race": "Spain",
+      "date": "13 Sep",
+      "team": "Alpine",
+      "position": "12",
+      "points": 0
+    },
+    {
+      "race": "Azerbaijan",
+      "date": "26 Sep",
+      "team": "Alpine",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Bahrain",
+      "date": "04 Oct",
+      "team": "Alpine",
+      "position": "16",
+      "points": 0
+    }
+  ],
+  "lindblad": [
+    {
+      "race": "Australia",
+      "date": "08 Mar",
+      "team": "Racing Bulls",
+      "position": "8",
+      "points": 4
+    },
+    {
+      "race": "China",
+      "date": "15 Mar",
+      "team": "Racing Bulls",
+      "position": "12",
+      "points": 0
+    },
+    {
+      "race": "Japan",
+      "date": "29 Mar",
+      "team": "Racing Bulls",
+      "position": "14",
+      "points": 0
+    },
+    {
+      "race": "Miami",
+      "date": "03 May",
+      "team": "Racing Bulls",
+      "position": "14",
+      "points": 0
+    },
+    {
+      "race": "Canada",
+      "date": "24 May",
+      "team": "Racing Bulls",
+      "position": "DNS",
+      "points": 1
+    },
+    {
+      "race": "Monaco",
+      "date": "07 Jun",
+      "team": "Racing Bulls",
+      "position": "6",
+      "points": 8
+    },
+    {
+      "race": "Barcelona-Catalunya",
+      "date": "14 Jun",
+      "team": "Racing Bulls",
+      "position": "9",
+      "points": 2
+    },
+    {
+      "race": "Austria",
+      "date": "28 Jun",
+      "team": "Racing Bulls",
+      "position": "10",
+      "points": 1
+    },
+    {
+      "race": "Great Britain",
+      "date": "05 Jul",
+      "team": "Racing Bulls",
+      "position": "7",
+      "points": 6
+    },
+    {
+      "race": "Belgium",
+      "date": "19 Jul",
+      "team": "Racing Bulls",
+      "position": "9",
+      "points": 2
+    },
+    {
+      "race": "Hungary",
+      "date": "26 Jul",
+      "team": "Racing Bulls",
+      "position": "10",
+      "points": 1
+    },
+    {
+      "race": "Netherlands",
+      "date": "23 Aug",
+      "team": "Racing Bulls",
+      "position": "12",
+      "points": 0
+    },
+    {
+      "race": "Italy",
+      "date": "06 Sep",
+      "team": "Racing Bulls",
+      "position": "8",
+      "points": 4
+    },
+    {
+      "race": "Spain",
+      "date": "13 Sep",
+      "team": "Racing Bulls",
+      "position": "9",
+      "points": 2
+    },
+    {
+      "race": "Azerbaijan",
+      "date": "26 Sep",
+      "team": "Racing Bulls",
+      "position": "7",
+      "points": 6
+    },
+    {
+      "race": "Bahrain",
+      "date": "04 Oct",
+      "team": "Racing Bulls",
+      "position": "10",
+      "points": 1
+    }
+  ],
+  "colapinto": [
+    {
+      "race": "Australia",
+      "date": "08 Mar",
+      "team": "Alpine",
+      "position": "14",
+      "points": 0
+    },
+    {
+      "race": "China",
+      "date": "15 Mar",
+      "team": "Alpine",
+      "position": "10",
+      "points": 1
+    },
+    {
+      "race": "Japan",
+      "date": "29 Mar",
+      "team": "Alpine",
+      "position": "16",
+      "points": 0
+    },
+    {
+      "race": "Miami",
+      "date": "03 May",
+      "team": "Alpine",
+      "position": "7",
+      "points": 6
+    },
+    {
+      "race": "Canada",
+      "date": "24 May",
+      "team": "Alpine",
+      "position": "6",
+      "points": 8
+    },
+    {
+      "race": "Monaco",
+      "date": "07 Jun",
+      "team": "Alpine",
+      "position": "14",
+      "points": 0
+    },
+    {
+      "race": "Barcelona-Catalunya",
+      "date": "14 Jun",
+      "team": "Alpine",
+      "position": "10",
+      "points": 1
+    },
+    {
+      "race": "Austria",
+      "date": "28 Jun",
+      "team": "Alpine",
+      "position": "15",
+      "points": 0
+    },
+    {
+      "race": "Great Britain",
+      "date": "05 Jul",
+      "team": "Alpine",
+      "position": "9",
+      "points": 2
+    },
+    {
+      "race": "Belgium",
+      "date": "19 Jul",
+      "team": "Alpine",
+      "position": "10",
+      "points": 1
+    },
+    {
+      "race": "Hungary",
+      "date": "26 Jul",
+      "team": "Alpine",
+      "position": "15",
+      "points": 0
+    },
+    {
+      "race": "Netherlands",
+      "date": "23 Aug",
+      "team": "Alpine",
+      "position": "14",
+      "points": 0
+    },
+    {
+      "race": "Italy",
+      "date": "06 Sep",
+      "team": "Alpine",
+      "position": "9",
+      "points": 2
+    },
+    {
+      "race": "Spain",
+      "date": "13 Sep",
+      "team": "Alpine",
+      "position": "7",
+      "points": 6
+    },
+    {
+      "race": "Azerbaijan",
+      "date": "26 Sep",
+      "team": "Alpine",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Bahrain",
+      "date": "04 Oct",
+      "team": "Alpine",
+      "position": "13",
+      "points": 0
+    }
+  ],
+  "bearman": [
+    {
+      "race": "Australia",
+      "date": "08 Mar",
+      "team": "Haas F1 Team",
+      "position": "7",
+      "points": 6
+    },
+    {
+      "race": "China",
+      "date": "15 Mar",
+      "team": "Haas F1 Team",
+      "position": "5",
+      "points": 11
+    },
+    {
+      "race": "Japan",
+      "date": "29 Mar",
+      "team": "Haas F1 Team",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Miami",
+      "date": "03 May",
+      "team": "Haas F1 Team",
+      "position": "11",
+      "points": 0
+    },
+    {
+      "race": "Canada",
+      "date": "24 May",
+      "team": "Haas F1 Team",
+      "position": "10",
+      "points": 1
+    },
+    {
+      "race": "Monaco",
+      "date": "07 Jun",
+      "team": "Haas F1 Team",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Barcelona-Catalunya",
+      "date": "14 Jun",
+      "team": "Haas F1 Team",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Austria",
+      "date": "28 Jun",
+      "team": "Haas F1 Team",
+      "position": "14",
+      "points": 0
+    },
+    {
+      "race": "Great Britain",
+      "date": "05 Jul",
+      "team": "Haas F1 Team",
+      "position": "12",
+      "points": 0
+    },
+    {
+      "race": "Belgium",
+      "date": "19 Jul",
+      "team": "Haas F1 Team",
+      "position": "14",
+      "points": 0
+    },
+    {
+      "race": "Hungary",
+      "date": "26 Jul",
+      "team": "Haas F1 Team",
+      "position": "19",
+      "points": 0
+    },
+    {
+      "race": "Netherlands",
+      "date": "23 Aug",
+      "team": "Haas F1 Team",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Italy",
+      "date": "06 Sep",
+      "team": "Haas F1 Team",
+      "position": "15",
+      "points": 0
+    },
+    {
+      "race": "Spain",
+      "date": "13 Sep",
+      "team": "Haas F1 Team",
+      "position": "16",
+      "points": 0
+    },
+    {
+      "race": "Azerbaijan",
+      "date": "26 Sep",
+      "team": "Haas F1 Team",
+      "position": "9",
+      "points": 2
+    },
+    {
+      "race": "Bahrain",
+      "date": "04 Oct",
+      "team": "Haas F1 Team",
+      "position": "14",
+      "points": 0
+    }
+  ],
+  "bortoleto": [
+    {
+      "race": "Australia",
+      "date": "08 Mar",
+      "team": "Audi",
+      "position": "9",
+      "points": 2
+    },
+    {
+      "race": "China",
+      "date": "15 Mar",
+      "team": "Audi",
+      "position": "DNS",
+      "points": 0
+    },
+    {
+      "race": "Japan",
+      "date": "29 Mar",
+      "team": "Audi",
+      "position": "13",
+      "points": 0
+    },
+    {
+      "race": "Miami",
+      "date": "03 May",
+      "team": "Audi",
+      "position": "12",
+      "points": 0
+    },
+    {
+      "race": "Canada",
+      "date": "24 May",
+      "team": "Audi",
+      "position": "13",
+      "points": 0
+    },
+    {
+      "race": "Monaco",
+      "date": "07 Jun",
+      "team": "Audi",
+      "position": "11",
+      "points": 0
+    },
+    {
+      "race": "Barcelona-Catalunya",
+      "date": "14 Jun",
+      "team": "Audi",
+      "position": "11",
+      "points": 0
+    },
+    {
+      "race": "Austria",
+      "date": "28 Jun",
+      "team": "Audi",
+      "position": "11",
+      "points": 0
+    },
+    {
+      "race": "Great Britain",
+      "date": "05 Jul",
+      "team": "Audi",
+      "position": "8",
+      "points": 4
+    },
+    {
+      "race": "Belgium",
+      "date": "19 Jul",
+      "team": "Audi",
+      "position": "8",
+      "points": 4
+    },
+    {
+      "race": "Hungary",
+      "date": "26 Jul",
+      "team": "Audi",
+      "position": "11",
+      "points": 0
+    },
+    {
+      "race": "Netherlands",
+      "date": "23 Aug",
+      "team": "Audi",
+      "position": "13",
+      "points": 0
+    },
+    {
+      "race": "Italy",
+      "date": "06 Sep",
+      "team": "Audi",
+      "position": "11",
+      "points": 0
+    },
+    {
+      "race": "Spain",
+      "date": "13 Sep",
+      "team": "Audi",
+      "position": "13",
+      "points": 0
+    },
+    {
+      "race": "Azerbaijan",
+      "date": "26 Sep",
+      "team": "Audi",
+      "position": "15",
+      "points": 0
+    },
+    {
+      "race": "Bahrain",
+      "date": "04 Oct",
+      "team": "Audi",
+      "position": "18",
+      "points": 0
+    }
+  ],
+  "hulkenberg": [
+    {
+      "race": "Australia",
+      "date": "08 Mar",
+      "team": "Audi",
+      "position": "DNS",
+      "points": 0
+    },
+    {
+      "race": "China",
+      "date": "15 Mar",
+      "team": "Audi",
+      "position": "11",
+      "points": 0
+    },
+    {
+      "race": "Japan",
+      "date": "29 Mar",
+      "team": "Audi",
+      "position": "11",
+      "points": 0
+    },
+    {
+      "race": "Miami",
+      "date": "03 May",
+      "team": "Audi",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Canada",
+      "date": "24 May",
+      "team": "Audi",
+      "position": "12",
+      "points": 0
+    },
+    {
+      "race": "Monaco",
+      "date": "07 Jun",
+      "team": "Audi",
+      "position": "13",
+      "points": 0
+    },
+    {
+      "race": "Barcelona-Catalunya",
+      "date": "14 Jun",
+      "team": "Audi",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Austria",
+      "date": "28 Jun",
+      "team": "Audi",
+      "position": "12",
+      "points": 0
+    },
+    {
+      "race": "Great Britain",
+      "date": "05 Jul",
+      "team": "Audi",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Belgium",
+      "date": "19 Jul",
+      "team": "Audi",
+      "position": "13",
+      "points": 0
+    },
+    {
+      "race": "Hungary",
+      "date": "26 Jul",
+      "team": "Audi",
+      "position": "9",
+      "points": 2
+    },
+    {
+      "race": "Netherlands",
+      "date": "23 Aug",
+      "team": "Audi",
+      "position": "8",
+      "points": 4
+    },
+    {
+      "race": "Italy",
+      "date": "06 Sep",
+      "team": "Audi",
+      "position": "12",
+      "points": 0
+    },
+    {
+      "race": "Spain",
+      "date": "13 Sep",
+      "team": "Audi",
+      "position": "10",
+      "points": 1
+    },
+    {
+      "race": "Azerbaijan",
+      "date": "26 Sep",
+      "team": "Audi",
+      "position": "11",
+      "points": 0
+    },
+    {
+      "race": "Bahrain",
+      "date": "04 Oct",
+      "team": "Audi",
+      "position": "11",
+      "points": 0
+    }
+  ],
+  "ocon": [
+    {
+      "race": "Australia",
+      "date": "08 Mar",
+      "team": "Haas F1 Team",
+      "position": "11",
+      "points": 0
+    },
+    {
+      "race": "China",
+      "date": "15 Mar",
+      "team": "Haas F1 Team",
+      "position": "14",
+      "points": 0
+    },
+    {
+      "race": "Japan",
+      "date": "29 Mar",
+      "team": "Haas F1 Team",
+      "position": "10",
+      "points": 1
+    },
+    {
+      "race": "Miami",
+      "date": "03 May",
+      "team": "Haas F1 Team",
+      "position": "13",
+      "points": 0
+    },
+    {
+      "race": "Canada",
+      "date": "24 May",
+      "team": "Haas F1 Team",
+      "position": "14",
+      "points": 0
+    },
+    {
+      "race": "Monaco",
+      "date": "07 Jun",
+      "team": "Haas F1 Team",
+      "position": "9",
+      "points": 2
+    },
+    {
+      "race": "Barcelona-Catalunya",
+      "date": "14 Jun",
+      "team": "Haas F1 Team",
+      "position": "13",
+      "points": 0
+    },
+    {
+      "race": "Austria",
+      "date": "28 Jun",
+      "team": "Haas F1 Team",
+      "position": "16",
+      "points": 0
+    },
+    {
+      "race": "Great Britain",
+      "date": "05 Jul",
+      "team": "Haas F1 Team",
+      "position": "13",
+      "points": 0
+    },
+    {
+      "race": "Belgium",
+      "date": "19 Jul",
+      "team": "Haas F1 Team",
+      "position": "17",
+      "points": 0
+    },
+    {
+      "race": "Hungary",
+      "date": "26 Jul",
+      "team": "Haas F1 Team",
+      "position": "16",
+      "points": 0
+    },
+    {
+      "race": "Netherlands",
+      "date": "23 Aug",
+      "team": "Haas F1 Team",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Italy",
+      "date": "06 Sep",
+      "team": "Haas F1 Team",
+      "position": "16",
+      "points": 0
+    },
+    {
+      "race": "Spain",
+      "date": "13 Sep",
+      "team": "Haas F1 Team",
+      "position": "11",
+      "points": 0
+    },
+    {
+      "race": "Azerbaijan",
+      "date": "26 Sep",
+      "team": "Haas F1 Team",
+      "position": "8",
+      "points": 4
+    },
+    {
+      "race": "Bahrain",
+      "date": "04 Oct",
+      "team": "Haas F1 Team",
+      "position": "15",
+      "points": 0
+    }
+  ],
+  "alonso": [
+    {
+      "race": "Australia",
+      "date": "08 Mar",
+      "team": "Aston Martin",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "China",
+      "date": "15 Mar",
+      "team": "Aston Martin",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Japan",
+      "date": "29 Mar",
+      "team": "Aston Martin",
+      "position": "18",
+      "points": 0
+    },
+    {
+      "race": "Miami",
+      "date": "03 May",
+      "team": "Aston Martin",
+      "position": "15",
+      "points": 0
+    },
+    {
+      "race": "Canada",
+      "date": "24 May",
+      "team": "Aston Martin",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Monaco",
+      "date": "07 Jun",
+      "team": "Aston Martin",
+      "position": "10",
+      "points": 1
+    },
+    {
+      "race": "Barcelona-Catalunya",
+      "date": "14 Jun",
+      "team": "Aston Martin",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Austria",
+      "date": "28 Jun",
+      "team": "Aston Martin",
+      "position": "18",
+      "points": 0
+    },
+    {
+      "race": "Great Britain",
+      "date": "05 Jul",
+      "team": "Aston Martin",
+      "position": "18",
+      "points": 0
+    },
+    {
+      "race": "Belgium",
+      "date": "19 Jul",
+      "team": "Aston Martin",
+      "position": "19",
+      "points": 0
+    },
+    {
+      "race": "Hungary",
+      "date": "26 Jul",
+      "team": "Aston Martin",
+      "position": "14",
+      "points": 0
+    },
+    {
+      "race": "Netherlands",
+      "date": "23 Aug",
+      "team": "Aston Martin",
+      "position": "9",
+      "points": 2
+    },
+    {
+      "race": "Italy",
+      "date": "06 Sep",
+      "team": "Aston Martin",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Spain",
+      "date": "13 Sep",
+      "team": "Aston Martin",
+      "position": "17",
+      "points": 0
+    },
+    {
+      "race": "Azerbaijan",
+      "date": "26 Sep",
+      "team": "Aston Martin",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Bahrain",
+      "date": "04 Oct",
+      "team": "Aston Martin",
+      "position": "8",
+      "points": 4
+    }
+  ],
+  "sainz": [
+    {
+      "race": "Australia",
+      "date": "08 Mar",
+      "team": "Williams",
+      "position": "15",
+      "points": 0
+    },
+    {
+      "race": "China",
+      "date": "15 Mar",
+      "team": "Williams",
+      "position": "9",
+      "points": 2
+    },
+    {
+      "race": "Japan",
+      "date": "29 Mar",
+      "team": "Williams",
+      "position": "15",
+      "points": 0
+    },
+    {
+      "race": "Miami",
+      "date": "03 May",
+      "team": "Williams",
+      "position": "9",
+      "points": 2
+    },
+    {
+      "race": "Canada",
+      "date": "24 May",
+      "team": "Williams",
+      "position": "9",
+      "points": 2
+    },
+    {
+      "race": "Monaco",
+      "date": "07 Jun",
+      "team": "Williams",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Barcelona-Catalunya",
+      "date": "14 Jun",
+      "team": "Williams",
+      "position": "12",
+      "points": 0
+    },
+    {
+      "race": "Austria",
+      "date": "28 Jun",
+      "team": "Williams",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Great Britain",
+      "date": "05 Jul",
+      "team": "Williams",
+      "position": "17",
+      "points": 0
+    },
+    {
+      "race": "Belgium",
+      "date": "19 Jul",
+      "team": "Williams",
+      "position": "16",
+      "points": 0
+    },
+    {
+      "race": "Hungary",
+      "date": "26 Jul",
+      "team": "Williams",
+      "position": "18",
+      "points": 0
+    },
+    {
+      "race": "Netherlands",
+      "date": "23 Aug",
+      "team": "Williams",
+      "position": "16",
+      "points": 0
+    },
+    {
+      "race": "Italy",
+      "date": "06 Sep",
+      "team": "Williams",
+      "position": "13",
+      "points": 0
+    },
+    {
+      "race": "Spain",
+      "date": "13 Sep",
+      "team": "Williams",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Azerbaijan",
+      "date": "26 Sep",
+      "team": "Williams",
+      "position": "10",
+      "points": 1
+    },
+    {
+      "race": "Bahrain",
+      "date": "04 Oct",
+      "team": "Williams",
+      "position": "17",
+      "points": 0
+    }
+  ],
+  "albon": [
+    {
+      "race": "Australia",
+      "date": "08 Mar",
+      "team": "Williams",
+      "position": "12",
+      "points": 0
+    },
+    {
+      "race": "China",
+      "date": "15 Mar",
+      "team": "Williams",
+      "position": "DNS",
+      "points": 0
+    },
+    {
+      "race": "Japan",
+      "date": "29 Mar",
+      "team": "Williams",
+      "position": "20",
+      "points": 0
+    },
+    {
+      "race": "Miami",
+      "date": "03 May",
+      "team": "Williams",
+      "position": "10",
+      "points": 1
+    },
+    {
+      "race": "Canada",
+      "date": "24 May",
+      "team": "Williams",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Monaco",
+      "date": "07 Jun",
+      "team": "Williams",
+      "position": "8",
+      "points": 4
+    },
+    {
+      "race": "Barcelona-Catalunya",
+      "date": "14 Jun",
+      "team": "Williams",
+      "position": "NC",
+      "points": 0
+    },
+    {
+      "race": "Austria",
+      "date": "28 Jun",
+      "team": "Williams",
+      "position": "17",
+      "points": 0
+    },
+    {
+      "race": "Great Britain",
+      "date": "05 Jul",
+      "team": "Williams",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Belgium",
+      "date": "19 Jul",
+      "team": "Williams",
+      "position": "15",
+      "points": 0
+    },
+    {
+      "race": "Hungary",
+      "date": "26 Jul",
+      "team": "Williams",
+      "position": "17",
+      "points": 0
+    },
+    {
+      "race": "Netherlands",
+      "date": "23 Aug",
+      "team": "Williams",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Italy",
+      "date": "06 Sep",
+      "team": "Williams",
+      "position": "17",
+      "points": 0
+    },
+    {
+      "race": "Spain",
+      "date": "13 Sep",
+      "team": "Williams",
+      "position": "15",
+      "points": 0
+    },
+    {
+      "race": "Azerbaijan",
+      "date": "26 Sep",
+      "team": "Williams",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Bahrain",
+      "date": "04 Oct",
+      "team": "Williams",
+      "position": "DNF",
+      "points": 0
+    }
+  ],
+  "tsunoda": [
+    {
+      "race": "Netherlands",
+      "date": "23 Aug",
+      "team": "Racing Bulls",
+      "position": "11",
+      "points": 0
+    },
+    {
+      "race": "Italy",
+      "date": "06 Sep",
+      "team": "Racing Bulls",
+      "position": "10",
+      "points": 1
+    },
+    {
+      "race": "Spain",
+      "date": "13 Sep",
+      "team": "Racing Bulls",
+      "position": "14",
+      "points": 0
+    }
+  ],
+  "stroll": [
+    {
+      "race": "Australia",
+      "date": "08 Mar",
+      "team": "Aston Martin",
+      "position": "NC",
+      "points": 0
+    },
+    {
+      "race": "China",
+      "date": "15 Mar",
+      "team": "Aston Martin",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Japan",
+      "date": "29 Mar",
+      "team": "Aston Martin",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Miami",
+      "date": "03 May",
+      "team": "Aston Martin",
+      "position": "17",
+      "points": 0
+    },
+    {
+      "race": "Canada",
+      "date": "24 May",
+      "team": "Aston Martin",
+      "position": "15",
+      "points": 0
+    },
+    {
+      "race": "Monaco",
+      "date": "07 Jun",
+      "team": "Aston Martin",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Barcelona-Catalunya",
+      "date": "14 Jun",
+      "team": "Aston Martin",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Austria",
+      "date": "28 Jun",
+      "team": "Aston Martin",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Great Britain",
+      "date": "05 Jul",
+      "team": "Aston Martin",
+      "position": "19",
+      "points": 0
+    },
+    {
+      "race": "Belgium",
+      "date": "19 Jul",
+      "team": "Aston Martin",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Hungary",
+      "date": "26 Jul",
+      "team": "Aston Martin",
+      "position": "13",
+      "points": 0
+    },
+    {
+      "race": "Netherlands",
+      "date": "23 Aug",
+      "team": "Aston Martin",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Italy",
+      "date": "06 Sep",
+      "team": "Aston Martin",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Spain",
+      "date": "13 Sep",
+      "team": "Aston Martin",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Azerbaijan",
+      "date": "26 Sep",
+      "team": "Aston Martin",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Bahrain",
+      "date": "04 Oct",
+      "team": "Aston Martin",
+      "position": "12",
+      "points": 0
+    }
+  ],
+  "bottas": [
+    {
+      "race": "Australia",
+      "date": "08 Mar",
+      "team": "Cadillac",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "China",
+      "date": "15 Mar",
+      "team": "Cadillac",
+      "position": "13",
+      "points": 0
+    },
+    {
+      "race": "Japan",
+      "date": "29 Mar",
+      "team": "Cadillac",
+      "position": "19",
+      "points": 0
+    },
+    {
+      "race": "Miami",
+      "date": "03 May",
+      "team": "Cadillac",
+      "position": "18",
+      "points": 0
+    },
+    {
+      "race": "Canada",
+      "date": "24 May",
+      "team": "Cadillac",
+      "position": "16",
+      "points": 0
+    },
+    {
+      "race": "Monaco",
+      "date": "07 Jun",
+      "team": "Cadillac",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Barcelona-Catalunya",
+      "date": "14 Jun",
+      "team": "Cadillac",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Austria",
+      "date": "28 Jun",
+      "team": "Cadillac",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Great Britain",
+      "date": "05 Jul",
+      "team": "Cadillac",
+      "position": "16",
+      "points": 0
+    },
+    {
+      "race": "Belgium",
+      "date": "19 Jul",
+      "team": "Cadillac",
+      "position": "18",
+      "points": 0
+    },
+    {
+      "race": "Hungary",
+      "date": "26 Jul",
+      "team": "Cadillac",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Netherlands",
+      "date": "23 Aug",
+      "team": "Cadillac",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Italy",
+      "date": "06 Sep",
+      "team": "Cadillac",
+      "position": "19",
+      "points": 0
+    },
+    {
+      "race": "Spain",
+      "date": "13 Sep",
+      "team": "Cadillac",
+      "position": "18",
+      "points": 0
+    },
+    {
+      "race": "Azerbaijan",
+      "date": "26 Sep",
+      "team": "Cadillac",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Bahrain",
+      "date": "04 Oct",
+      "team": "Cadillac",
+      "position": "DNF",
+      "points": 0
+    }
+  ],
+  "perez": [
+    {
+      "race": "Australia",
+      "date": "08 Mar",
+      "team": "Cadillac",
+      "position": "16",
+      "points": 0
+    },
+    {
+      "race": "China",
+      "date": "15 Mar",
+      "team": "Cadillac",
+      "position": "15",
+      "points": 0
+    },
+    {
+      "race": "Japan",
+      "date": "29 Mar",
+      "team": "Cadillac",
+      "position": "17",
+      "points": 0
+    },
+    {
+      "race": "Miami",
+      "date": "03 May",
+      "team": "Cadillac",
+      "position": "16",
+      "points": 0
+    },
+    {
+      "race": "Canada",
+      "date": "24 May",
+      "team": "Cadillac",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Monaco",
+      "date": "07 Jun",
+      "team": "Cadillac",
+      "position": "15",
+      "points": 0
+    },
+    {
+      "race": "Barcelona-Catalunya",
+      "date": "14 Jun",
+      "team": "Cadillac",
+      "position": "14",
+      "points": 0
+    },
+    {
+      "race": "Austria",
+      "date": "28 Jun",
+      "team": "Cadillac",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Great Britain",
+      "date": "05 Jul",
+      "team": "Cadillac",
+      "position": "14",
+      "points": 0
+    },
+    {
+      "race": "Belgium",
+      "date": "19 Jul",
+      "team": "Cadillac",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Hungary",
+      "date": "26 Jul",
+      "team": "Cadillac",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Netherlands",
+      "date": "23 Aug",
+      "team": "Cadillac",
+      "position": "15",
+      "points": 0
+    },
+    {
+      "race": "Italy",
+      "date": "06 Sep",
+      "team": "Cadillac",
+      "position": "18",
+      "points": 0
+    },
+    {
+      "race": "Spain",
+      "date": "13 Sep",
+      "team": "Cadillac",
+      "position": "DNF",
+      "points": 0
+    },
+    {
+      "race": "Azerbaijan",
+      "date": "26 Sep",
+      "team": "Cadillac",
+      "position": "14",
+      "points": 0
+    },
+    {
+      "race": "Bahrain",
+      "date": "04 Oct",
+      "team": "Cadillac",
+      "position": "19",
+      "points": 0
+    }
+  ]
+}

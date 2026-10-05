@@ -1,0 +1,554 @@
+{
+  "antonelli": {
+    "source": "https://www.formula1.com/en/drivers/kimi-antonelli",
+    "season": {
+      "races": 16,
+      "gpPoints": 294,
+      "wins": 8,
+      "podiums": 13,
+      "poles": 6,
+      "top10": 14,
+      "dnf": 1,
+      "sprintRaces": 5,
+      "sprintPoints": 26,
+      "sprintWins": 1,
+      "sprintPodiums": 2
+    },
+    "career": {
+      "entries": 40,
+      "points": 470,
+      "wins": 8,
+      "podiums": 16,
+      "poles": 6,
+      "titles": 0
+    }
+  },
+  "russell": {
+    "source": "https://www.formula1.com/en/drivers/george-russell",
+    "season": {
+      "races": 16,
+      "gpPoints": 202,
+      "wins": 3,
+      "podiums": 8,
+      "poles": 5,
+      "top10": 12,
+      "dnf": 3,
+      "sprintRaces": 5,
+      "sprintPoints": 34,
+      "sprintWins": 3,
+      "sprintPodiums": 3
+    },
+    "career": {
+      "entries": 168,
+      "points": 1269,
+      "wins": 8,
+      "podiums": 32,
+      "poles": 13,
+      "titles": 0
+    }
+  },
+  "hamilton": {
+    "source": "https://www.formula1.com/en/drivers/lewis-hamilton",
+    "season": {
+      "races": 16,
+      "gpPoints": 194,
+      "wins": 1,
+      "podiums": 6,
+      "poles": 0,
+      "top10": 15,
+      "dnf": 1,
+      "sprintRaces": 5,
+      "sprintPoints": 20,
+      "sprintWins": 0,
+      "sprintPodiums": 2
+    },
+    "career": {
+      "entries": 396,
+      "points": 5232.5,
+      "wins": 106,
+      "podiums": 208,
+      "poles": 104,
+      "titles": 7
+    }
+  },
+  "leclerc": {
+    "source": "https://www.formula1.com/en/drivers/charles-leclerc",
+    "season": {
+      "races": 16,
+      "gpPoints": 163,
+      "wins": 1,
+      "podiums": 4,
+      "poles": 0,
+      "top10": 13,
+      "dnf": 3,
+      "sprintRaces": 5,
+      "sprintPoints": 28,
+      "sprintWins": 0,
+      "sprintPodiums": 3
+    },
+    "career": {
+      "entries": 187,
+      "points": 1863,
+      "wins": 9,
+      "podiums": 54,
+      "poles": 27,
+      "titles": 0
+    }
+  },
+  "norris": {
+    "source": "https://www.formula1.com/en/drivers/lando-norris",
+    "season": {
+      "races": 16,
+      "gpPoints": 156,
+      "wins": 2,
+      "podiums": 5,
+      "poles": 3,
+      "top10": 12,
+      "dnf": 3,
+      "sprintRaces": 5,
+      "sprintPoints": 32,
+      "sprintWins": 1,
+      "sprintPodiums": 4
+    },
+    "career": {
+      "entries": 167,
+      "points": 1618,
+      "wins": 13,
+      "podiums": 49,
+      "poles": 19,
+      "titles": 1
+    }
+  },
+  "verstappen": {
+    "source": "https://www.formula1.com/en/drivers/max-verstappen",
+    "season": {
+      "races": 16,
+      "gpPoints": 176,
+      "wins": 1,
+      "podiums": 8,
+      "poles": 1,
+      "top10": 12,
+      "dnf": 4,
+      "sprintRaces": 5,
+      "sprintPoints": 12,
+      "sprintWins": 0,
+      "sprintPodiums": 0
+    },
+    "career": {
+      "entries": 249,
+      "points": 3632.5,
+      "wins": 72,
+      "podiums": 135,
+      "poles": 49,
+      "titles": 4
+    }
+  },
+  "piastri": {
+    "source": "https://www.formula1.com/en/drivers/oscar-piastri",
+    "season": {
+      "races": 16,
+      "gpPoints": 107,
+      "wins": 0,
+      "podiums": 2,
+      "poles": 0,
+      "top10": 10,
+      "dnf": 1,
+      "sprintRaces": 5,
+      "sprintPoints": 21,
+      "sprintWins": 0,
+      "sprintPodiums": 1
+    },
+    "career": {
+      "entries": 84,
+      "points": 927,
+      "wins": 9,
+      "podiums": 28,
+      "poles": 6,
+      "titles": 0
+    }
+  },
+  "hadjar": {
+    "source": "https://www.formula1.com/en/drivers/isack-hadjar",
+    "season": {
+      "races": 13,
+      "gpPoints": 96,
+      "wins": 0,
+      "podiums": 2,
+      "poles": 0,
+      "top10": 10,
+      "dnf": 2,
+      "sprintRaces": 4,
+      "sprintPoints": 0,
+      "sprintWins": 0,
+      "sprintPodiums": 0
+    },
+    "career": {
+      "entries": 36,
+      "points": 147,
+      "wins": 0,
+      "podiums": 3,
+      "poles": 0,
+      "titles": 0
+    }
+  },
+  "lawson": {
+    "source": "https://www.formula1.com/en/drivers/liam-lawson",
+    "season": {
+      "races": 16,
+      "gpPoints": 62,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0,
+      "top10": 11,
+      "dnf": 1,
+      "sprintRaces": 5,
+      "sprintPoints": 3,
+      "sprintWins": 0,
+      "sprintPodiums": 0
+    },
+    "career": {
+      "entries": 51,
+      "points": 109,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0,
+      "titles": 0
+    }
+  },
+  "gasly": {
+    "source": "https://www.formula1.com/en/drivers/pierre-gasly",
+    "season": {
+      "races": 16,
+      "gpPoints": 39,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 1,
+      "top10": 9,
+      "dnf": 2,
+      "sprintRaces": 5,
+      "sprintPoints": 2,
+      "sprintWins": 0,
+      "sprintPodiums": 0
+    },
+    "career": {
+      "entries": 193,
+      "points": 499,
+      "wins": 1,
+      "podiums": 5,
+      "poles": 1,
+      "titles": 0
+    }
+  },
+  "lindblad": {
+    "source": "https://www.formula1.com/en/drivers/arvid-lindblad",
+    "season": {
+      "races": 16,
+      "gpPoints": 37,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0,
+      "top10": 11,
+      "dnf": 0,
+      "sprintRaces": 5,
+      "sprintPoints": 1,
+      "sprintWins": 0,
+      "sprintPodiums": 0
+    },
+    "career": {
+      "entries": 15,
+      "points": 38,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0,
+      "titles": 0
+    }
+  },
+  "colapinto": {
+    "source": "https://www.formula1.com/en/drivers/franco-colapinto",
+    "season": {
+      "races": 16,
+      "gpPoints": 27,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0,
+      "top10": 8,
+      "dnf": 1,
+      "sprintRaces": 5,
+      "sprintPoints": 0,
+      "sprintWins": 0,
+      "sprintPodiums": 0
+    },
+    "career": {
+      "entries": 42,
+      "points": 32,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0,
+      "titles": 0
+    }
+  },
+  "bearman": {
+    "source": "https://www.formula1.com/en/drivers/oliver-bearman",
+    "season": {
+      "races": 16,
+      "gpPoints": 19,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0,
+      "top10": 4,
+      "dnf": 4,
+      "sprintRaces": 5,
+      "sprintPoints": 1,
+      "sprintWins": 0,
+      "sprintPodiums": 0
+    },
+    "career": {
+      "entries": 43,
+      "points": 68,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0,
+      "titles": 0
+    }
+  },
+  "bortoleto": {
+    "source": "https://www.formula1.com/en/drivers/gabriel-bortoleto",
+    "season": {
+      "races": 16,
+      "gpPoints": 10,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0,
+      "top10": 3,
+      "dnf": 0,
+      "sprintRaces": 5,
+      "sprintPoints": 0,
+      "sprintWins": 0,
+      "sprintPodiums": 0
+    },
+    "career": {
+      "entries": 39,
+      "points": 29,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0,
+      "titles": 0
+    }
+  },
+  "hulkenberg": {
+    "source": "https://www.formula1.com/en/drivers/nico-hulkenberg",
+    "season": {
+      "races": 16,
+      "gpPoints": 7,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0,
+      "top10": 3,
+      "dnf": 3,
+      "sprintRaces": 5,
+      "sprintPoints": 0,
+      "sprintWins": 0,
+      "sprintPodiums": 0
+    },
+    "career": {
+      "entries": 265,
+      "points": 629,
+      "wins": 0,
+      "podiums": 1,
+      "poles": 1,
+      "titles": 0
+    }
+  },
+  "ocon": {
+    "source": "https://www.formula1.com/en/drivers/esteban-ocon",
+    "season": {
+      "races": 16,
+      "gpPoints": 7,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0,
+      "top10": 3,
+      "dnf": 1,
+      "sprintRaces": 5,
+      "sprintPoints": 0,
+      "sprintWins": 0,
+      "sprintPodiums": 0
+    },
+    "career": {
+      "entries": 196,
+      "points": 490,
+      "wins": 1,
+      "podiums": 4,
+      "poles": 0,
+      "titles": 0
+    }
+  },
+  "alonso": {
+    "source": "https://www.formula1.com/en/drivers/fernando-alonso",
+    "season": {
+      "races": 16,
+      "gpPoints": 7,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0,
+      "top10": 3,
+      "dnf": 6,
+      "sprintRaces": 5,
+      "sprintPoints": 0,
+      "sprintWins": 0,
+      "sprintPodiums": 0
+    },
+    "career": {
+      "entries": 443,
+      "points": 2400,
+      "wins": 32,
+      "podiums": 106,
+      "poles": 22,
+      "titles": 2
+    }
+  },
+  "sainz": {
+    "source": "https://www.formula1.com/en/drivers/carlos-sainz",
+    "season": {
+      "races": 16,
+      "gpPoints": 7,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0,
+      "top10": 4,
+      "dnf": 3,
+      "sprintRaces": 5,
+      "sprintPoints": 0,
+      "sprintWins": 0,
+      "sprintPodiums": 0
+    },
+    "career": {
+      "entries": 245,
+      "points": 1343.5,
+      "wins": 4,
+      "podiums": 29,
+      "poles": 6,
+      "titles": 0
+    }
+  },
+  "albon": {
+    "source": "https://www.formula1.com/en/drivers/alexander-albon",
+    "season": {
+      "races": 16,
+      "gpPoints": 5,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0,
+      "top10": 2,
+      "dnf": 5,
+      "sprintRaces": 5,
+      "sprintPoints": 0,
+      "sprintWins": 0,
+      "sprintPodiums": 0
+    },
+    "career": {
+      "entries": 143,
+      "points": 318,
+      "wins": 0,
+      "podiums": 2,
+      "poles": 0,
+      "titles": 0
+    }
+  },
+  "tsunoda": {
+    "source": "https://www.formula1.com/en/drivers/yuki-tsunoda",
+    "season": {
+      "races": null,
+      "gpPoints": null,
+      "wins": null,
+      "podiums": null,
+      "poles": null,
+      "top10": null,
+      "dnf": null,
+      "sprintRaces": null,
+      "sprintPoints": null,
+      "sprintWins": null,
+      "sprintPodiums": null
+    },
+    "career": {
+      "entries": null,
+      "points": null,
+      "wins": null,
+      "podiums": null,
+      "poles": null,
+      "titles": null
+    }
+  },
+  "stroll": {
+    "source": "https://www.formula1.com/en/drivers/lance-stroll",
+    "season": {
+      "races": 16,
+      "gpPoints": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0,
+      "top10": 0,
+      "dnf": 10,
+      "sprintRaces": 5,
+      "sprintPoints": 0,
+      "sprintWins": 0,
+      "sprintPodiums": 0
+    },
+    "career": {
+      "entries": 205,
+      "points": 325,
+      "wins": 0,
+      "podiums": 3,
+      "poles": 1,
+      "titles": 0
+    }
+  },
+  "bottas": {
+    "source": "https://www.formula1.com/en/drivers/valtteri-bottas",
+    "season": {
+      "races": 16,
+      "gpPoints": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0,
+      "top10": 0,
+      "dnf": 8,
+      "sprintRaces": 5,
+      "sprintPoints": 0,
+      "sprintWins": 0,
+      "sprintPodiums": 0
+    },
+    "career": {
+      "entries": 262,
+      "points": 1797,
+      "wins": 10,
+      "podiums": 67,
+      "poles": 20,
+      "titles": 0
+    }
+  },
+  "perez": {
+    "source": "https://www.formula1.com/en/drivers/sergio-perez",
+    "season": {
+      "races": 16,
+      "gpPoints": 0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0,
+      "top10": 0,
+      "dnf": 5,
+      "sprintRaces": 5,
+      "sprintPoints": 0,
+      "sprintWins": 0,
+      "sprintPodiums": 0
+    },
+    "career": {
+      "entries": 297,
+      "points": 1638,
+      "wins": 6,
+      "podiums": 39,
+      "poles": 3,
+      "titles": 0
+    }
+  }
+}

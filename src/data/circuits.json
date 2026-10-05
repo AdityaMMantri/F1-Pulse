@@ -1,0 +1,117 @@
+{
+  "japan": {
+    "length": 5.807,
+    "laps": 53,
+    "distance": 307.471
+  },
+  "australia": {
+    "length": 5.278,
+    "laps": 58,
+    "distance": 306.124
+  },
+  "china": {
+    "length": 5.451,
+    "laps": 56,
+    "distance": 305.066
+  },
+  "miami": {
+    "length": 5.412,
+    "laps": 57,
+    "distance": 308.326
+  },
+  "canada": {
+    "length": 4.361,
+    "laps": 70,
+    "distance": 305.27
+  },
+  "monaco": {
+    "length": 3.337,
+    "laps": 78,
+    "distance": 260.286
+  },
+  "austria": {
+    "length": 4.326,
+    "laps": 71,
+    "distance": 307.026
+  },
+  "barcelona-catalunya": {
+    "length": 4.657,
+    "laps": 66,
+    "distance": 307.236
+  },
+  "belgium": {
+    "length": 7.004,
+    "laps": 44,
+    "distance": 308.054
+  },
+  "great-britain": {
+    "length": 5.891,
+    "laps": 52,
+    "distance": 306.198
+  },
+  "netherlands": {
+    "length": 4.259,
+    "laps": 72,
+    "distance": 306.592
+  },
+  "hungary": {
+    "length": 4.381,
+    "laps": 70,
+    "distance": 306.63
+  },
+  "azerbaijan": {
+    "length": 6.003,
+    "laps": 51,
+    "distance": 306.049
+  },
+  "italy": {
+    "length": 5.793,
+    "laps": 53,
+    "distance": 306.72
+  },
+  "spain": {
+    "length": 5.414,
+    "laps": 57,
+    "distance": 308.399
+  },
+  "bahrain": {
+    "length": 5.543,
+    "laps": 56,
+    "distance": 310.417
+  },
+  "mexico": {
+    "length": 4.304,
+    "laps": 71,
+    "distance": 305.354
+  },
+  "united-states": {
+    "length": 5.513,
+    "laps": 56,
+    "distance": 308.405
+  },
+  "brazil": {
+    "length": 4.309,
+    "laps": 71,
+    "distance": 305.879
+  },
+  "singapore": {
+    "length": 4.927,
+    "laps": 62,
+    "distance": 305.337
+  },
+  "abu-dhabi": {
+    "length": null,
+    "laps": null,
+    "distance": null
+  },
+  "qatar": {
+    "length": 5.419,
+    "laps": 57,
+    "distance": 308.611
+  },
+  "las-vegas": {
+    "length": 6.201,
+    "laps": 50,
+    "distance": 309.958
+  }
+}

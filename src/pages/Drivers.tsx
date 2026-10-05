@@ -1,0 +1,21 @@
+import { Link, useLocation, useParams, useSearchParams } from 'react-router'
+import { drivers, teams, lineupNote, sources } from '../data/season'
+import { Heading, Portrait, TeamLogo, NotFound, SourceNote } from '../components/ui'
+import { teamStyle, value } from '../components/format'
+export function Drivers() {
+  const [params,setParams] = useSearchParams()
+  const q=params.get('q')??'', team=params.get('team')??'', sort=params.get('sort')??'position'
+  const change=(key:string,val:string)=>setParams(p=>{if(val)p.set(key,val);else p.delete(key);return p},{replace:true})
+  const filtered=drivers.filter(d=>(d.first+' '+d.last).toLowerCase().includes(q.trim().toLowerCase())&&(!team||d.teamId===team)).sort((a,b)=>sort==='name'?a.last.localeCompare(b.last):a.position-b.position)
+  return <><Heading label="THE PEOPLE BEHIND THE VISORS" title="Meet the grid." description="22 race seats. Every 2026 participant. Find your next rivalry."/>
+    <div className="toolbar"><label className="search-field"><input aria-label="Search drivers" placeholder="Find a driver…" value={q} onChange={e=>change('q',e.target.value)}/></label><select aria-label="Filter by team" value={team} onChange={e=>change('team',e.target.value)}><option value="">All teams</option>{teams.map(t=><option value={t.id} key={t.id}>{t.name}</option>)}</select><select aria-label="Sort drivers" value={sort} onChange={e=>change('sort',e.target.value)}><option value="position">Championship order</option><option value="name">Name A–Z</option></select><span role="status">{filtered.length} drivers</span><button className="text-button" onClick={()=>setParams({})}>Clear filters</button></div>
+    <div className="driver-grid">{filtered.map(d=><Link to={'/drivers/'+d.id} state={{from:'/drivers?'+params.toString()}} className="driver-card" key={d.id} style={teamStyle(d.color)}><div className="driver-visual"><Portrait driver={d}/><span className="driver-number">{d.number}</span><span className="country-label">{d.reserve?'SUBSTITUTE · R12–14':d.country}</span></div><div className="driver-card-copy"><div className="driver-team"><TeamLogo name={d.team}/><small>{d.team}</small></div><h2>{d.first} <strong>{d.last}</strong><span aria-hidden="true">↗</span></h2><div className="driver-stats"><span>{d.points}<small>POINTS</small></span><span>{value(d.profile.season.wins)}<small>GP WINS</small></span><span>{value(d.profile.season.podiums)}<small>PODIUMS</small></span></div></div></Link>)}</div>
+    {!filtered.length&&<div className="empty"><h2>No drivers found</h2><p>Try a different name or clear the team filter.</p><button className="button secondary" onClick={()=>setParams({})}>Clear filters</button></div>}
+    <p className="notice">{lineupNote}</p><SourceNote href={sources.drivers}>Supplied portraits may show earlier team uniforms.</SourceNote></>
+}
+export function DriverDetail() {
+  const {id}=useParams(), location=useLocation(), d=drivers.find(v=>v.id===id)
+  if(!d)return <NotFound/>
+  return <><Link className="back" to={location.state?.from??'/drivers'}>← Back to drivers</Link><Heading label={d.team+' · '+d.country} title={d.first+' '+d.last} description={d.reserve?'2026 substitute · Racing Bulls, rounds 12–14':'2026 championship · Position '+d.position}/><div className="profile-hero" style={teamStyle(d.color)}><Portrait driver={d} eager/><span className="profile-number" aria-hidden="true">{d.number}</span><div className="profile-copy"><TeamLogo name={d.team}/><div className="eyebrow">RACE NUMBER {d.number}</div><h2>Driven to<br/><em>go further.</em></h2><div className="hero-actions"><Link className="button primary" to={'/compare?a='+d.id}>Compare driver ↗</Link><Link className="button secondary" to={'/teams/'+d.teamId}>Explore team ↗</Link></div></div></div><div className="metric-grid">{[['Championship points',d.points],['Grand Prix wins',d.profile.season.wins],['Grand Prix podiums',d.profile.season.podiums],['Grand Prix poles',d.profile.season.poles]].map(([n,v])=><div className="panel metric" key={n}><small>{n}</small><strong>{value(v)}</strong></div>)}</div>
+    {['hadjar','lawson','tsunoda'].includes(d.id)&&<p className="notice">{lineupNote}</p>}<SourceNote href={d.profile.source}>Statistics exclude sprint wins from Grand Prix wins. Missing statistics are unavailable.</SourceNote></>
+}

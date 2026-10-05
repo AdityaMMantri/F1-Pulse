@@ -1,0 +1,13 @@
+import { Link } from 'react-router'
+import { drivers, nextRace, races, teams, sources } from '../data/season'
+import { carImage } from '../media'
+import { Portrait, RaceCard, Standings, SourceNote } from '../components/ui'
+export default function Home() {
+  return <>
+    <div className="page-heading"><div><div className="eyebrow">THE GRID. AT A GLANCE.</div><h1>Your front row seat.</h1><p>Less searching. Clearer comparisons. More racing.</p></div><span className="season-pill"><i/>2026 season</span></div>
+    <div className="hero-grid"><section className="hero-card"><div className="hero-copy"><span className="eyebrow">A NEW ERA. YOUR PERSPECTIVE.</span><h2>Know the grid.<br/><em>Make it yours.</em></h2><p>Follow the championship.<br/>Then build your own racing identity.</p><div className="hero-actions"><Link className="button primary" to="/compare">Compare drivers ↗</Link><Link className="button ghost" to="/cars">Enter the garage</Link></div></div><div className="hero-car"><span className="huge-type" aria-hidden="true">2026</span><img src={carImage} alt="Supplied red and black Formula-style concept car" width="679" height="452" fetchPriority="high"/></div><div className="hero-bottom"><span>PRECISION. PASSION. PULSE.</span><span>Independent HCI project</span></div></section><RaceCard race={nextRace}/></div>
+    <div className="stat-strip">{[[races.length,'GRANDS PRIX','Current calendar'],[22,'RACE SEATS','Plus substitute appearances'],[teams.length,'TEAMS','One championship'],[16,'ROUNDS COMPLETED','Local verified snapshot']].map(([n,t,s])=><div key={t}><strong>{n}</strong><div><b>{t}</b><small>{s}</small></div></div>)}</div>
+    <div className="dashboard-lower"><section className="panel"><div className="section-title"><div><span className="eyebrow">2026 · AFTER ROUND 16</span><h2>The championship fight</h2></div><Link to="/season">All standings ↗</Link></div><Standings/></section><section className="compare-promo"><span className="eyebrow">THE NUMBERS, SIDE BY SIDE</span><h2>Two drivers.<br/>A clearer picture.</h2><div className="versus-art">{[drivers[4],drivers[5]].map((d,i)=><div key={d.id}><Portrait driver={d}/><span>{i?'VERSTAPPEN':'NORRIS'}</span></div>)}</div><p>Season results. Career achievements. No guesswork.</p><Link className="button secondary" to="/compare?a=norris&b=verstappen">Explore a rivalry ↗</Link></section></div>
+    <Link className="learn-banner" to="/learn"><div><h3>New to the grid? Start here.</h3><p>A quick guide to the language of Formula 1.</p></div><span>F1 explained ↗</span></Link><SourceNote href={sources.drivers}>Offline-ready snapshot, not a live feed.</SourceNote>
+  </>
+}
