@@ -1,10 +1,10 @@
 import { lazy, Suspense, Component, type ReactNode } from 'react'
 import Intro from './Intro'
-import { carImage } from './media'
+import { carImage } from '../../media'
 const App = lazy(async () => {
   const image = new Image()
   image.src = carImage
-  const [module] = await Promise.all([import('./App'), image.decode().catch(() => undefined)])
+  const [module] = await Promise.all([import('../../App'), image.decode().catch(() => undefined), new Promise(resolve => setTimeout(resolve, 4500))])
   return module
 })
 class AppBoundary extends Component<{children:ReactNode},{failed:boolean}>{

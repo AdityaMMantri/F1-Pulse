@@ -4,10 +4,13 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "dev": "node scripts/dev.mjs",
     "build": "tsc -b && vite build",
     "lint": "oxlint",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "dev:client": "vite",
+    "server": "node server/index.mjs",
+    "test:api": "node --test server/api.test.mjs server/racing.test.mjs"
   },
   "dependencies": {
     "@react-three/drei": "^10.7.9",
