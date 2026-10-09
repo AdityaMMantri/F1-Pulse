@@ -229,10 +229,13 @@ See [the HCI implementation guide](docs/HCI-IMPLEMENTATION.md) for the in-app pr
 - `src/data/` — fallback snapshots, live-data adapter, shared React provider and context.
 - `src/assets/` — supplied photographs, maps, and optimized assets.
 - `src/styles/` — shared style refinements.
-- `server/` — Node API and integration tests; generated saves go in `data/`.
+- `server/` — Node API and racing sync; generated saves go in `data/`.
+- `tests/server/` — backend persistence and racing-data integration tests.
 - `scripts/` — combined development launcher.
 - `public/` — static public icons.
-- `docs/` — HCI and asset documentation, `reference/` documents, `previews/` screenshots.
+- `docs/` — HCI and asset documentation, `reference/` documents, `previews/` screenshots, and `previews/archive/` older design captures.
 
 Root configuration files are required by Vite, TypeScript, and npm. `dist/` and `node_modules/` are generated, ignored folders. Parent-folder assignment/PPT materials are preserved.
 
+
+See [the project structure guide](docs/PROJECT-STRUCTURE.md) for what each root configuration file does and where new files belong.

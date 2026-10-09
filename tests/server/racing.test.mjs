@@ -3,8 +3,8 @@ import assert from 'node:assert/strict'
 import { mkdtemp, readFile, rm } from 'node:fs/promises'
 import { tmpdir } from 'node:os'
 import { join, resolve, sep } from 'node:path'
-import { createRacingService, fetchSeason, INTERVAL } from './racing.mjs'
-import { createApi } from './index.mjs'
+import { createRacingService, fetchSeason, INTERVAL } from '../../server/racing.mjs'
+import { createApi } from '../../server/index.mjs'
 
 const Driver = { driverId: 'max_verstappen', givenName: 'Max', familyName: 'Verstappen', permanentNumber: '3', nationality: 'Dutch' }
 const Constructor = { constructorId: 'red_bull', name: 'Red Bull' }

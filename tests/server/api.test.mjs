@@ -3,7 +3,7 @@ import assert from 'node:assert/strict'
 import { mkdtemp, rm } from 'node:fs/promises'
 import { tmpdir } from 'node:os'
 import { join, resolve, sep } from 'node:path'
-import { createApi } from './index.mjs'
+import { createApi } from '../../server/index.mjs'
 
 test('garage persistence, validation, and restart',async()=>{
  const directory=await mkdtemp(join(tmpdir(),'pulse-api-'))
