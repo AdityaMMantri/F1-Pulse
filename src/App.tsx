@@ -34,7 +34,7 @@ function Shell(){
   const [hci,setHci]=useState(false)
   const [menu,setMenu]=useState(false),button=useRef<HTMLButtonElement>(null),nav=useRef<HTMLElement>(null)
   useEffect(()=>{
-    document.title=(navItems.find(([to])=>to!=='/'&&location.pathname.startsWith(to))?.[2]??'Overview')+' · F1 Pulse'
+    document.title=(location.pathname==='/learn'?'F1 explained':navItems.find(([to])=>to!=='/'&&location.pathname.startsWith(to))?.[2]??'Overview')+' · F1 Pulse'
     window.scrollTo({top:0,behavior:'instant'})
     document.getElementById('main')?.focus({preventScroll:true})
   },[location.pathname])

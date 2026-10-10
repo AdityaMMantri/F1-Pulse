@@ -5,3 +5,4 @@
 @media(max-width:760px){.hci-guide-groups{grid-template-columns:1fr}.hci-guide-title{flex-direction:column}.hci-toggle{font-size:10px;padding:7px}.header-tagline,.search-shortcut{display:none}.hci-guide{padding:16px}.task-steps a{flex:1;text-align:center;padding:10px 7px}}
 
 .studio-controls{scroll-margin-top:150px}.studio-controls fieldset{scroll-margin-top:165px}
+.hci-walkthrough{margin-top:22px;border-top:1px solid #426e60;padding-top:12px}.hci-walkthrough>div{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:22px}.hci-walkthrough h4{margin:8px 0;font-size:16px}.hci-walkthrough p{line-height:1.7;font-size:13px}.hci-walkthrough button{color:#b2f1dc;font-size:12px}.hci-guide li p{line-height:1.65}.hci-guide li p b{color:#ddf4ea;font-size:11px}
