@@ -52,7 +52,7 @@ Sprint results have their own top-three presentation, distinct from the Grand Pr
 | Design storage | Undo/redo changes, save/load in the browser or shared local server, and export an image. |
 | HCI guide | Turn on header annotations to locate Norman and Shneiderman principles in the interface. |
 
-The Garage also provides camera presets, a 2D fallback, artwork limits, and separate replace/add actions. A dark visual theme, red primary actions, team-colour highlights, and responsive layouts connect the pages. DM Sans handles readable interface text; Barlow Condensed supplies selected racing-style headings. Motion respects reduced-motion preferences.
+The Garage also provides camera presets, a 2D fallback, artwork limits, and separate replace/add actions. A dark visual theme, red primary actions, team-colour highlights, and responsive layouts connect the pages. DM Sans handles interface text, Barlow Condensed supplies racing headings, Georgia adds an editorial voice to descriptions, and monospace labels distinguish season metadata. Open sections and divider-led layouts reduce unnecessary card containers. Motion respects reduced-motion preferences.
 
 ## Tech stack
 
@@ -214,7 +214,7 @@ Ask participants to find a circuit's qualifying top ten, compare two drivers, an
 - Racing updates are published-result polling, not live telemetry. The backend must be running for scheduled refreshes.
 - Career and 2025 archive statistics are local snapshots; artwork, track dimensions, and explanatory text are reference content.
 - There is one shared local Garage save, with no accounts or multi-user permissions. Treat the backend as a local demonstration service.
-- The 4.5-second intro is a presentation choice; reduced-motion support stops its animation but does not remove the minimum wait. Its effect on task speed should be evaluated.
+- The 4.5-second intro pairs the car outline glow with sequential start lights, a warm atmospheric background, and a perspective track. This is a presentation sequence, not a download-progress indicator. Reduced-motion support stops decorative movement but does not remove the minimum wait. Its effect on task speed should be evaluated.
 - The 3D model is a visual concept. The 2D fallback does not reproduce all 3D lighting and material effects.
 - Supplied driver photographs, team logos, and circuit maps remain the property of their respective owners. Their inclusion does not grant redistribution rights. Portraits may depict a different season from the event data.
 - Sponsor presets are fictional. The project is not affiliated with or endorsed by Formula 1, the FIA, or any team.

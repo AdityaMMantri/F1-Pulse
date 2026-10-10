@@ -8,3 +8,12 @@
 .pulse-loader p{font-size:12px;letter-spacing:1px;color:#b6b7c1}
 @keyframes car-trace{to{stroke-dashoffset:-100}}
 @media(prefers-reduced-motion:reduce){.car-shimmer{display:none}}
+
+/* Race-start atmosphere; the light sequence is an intro, not download progress. */
+.pulse-loader{overflow:hidden;background:radial-gradient(ellipse at 50% 70%,#4b151b 0%,#1c1720 40%,#10131b 78%)}
+.loader-atmosphere{position:absolute;inset:0;overflow:hidden;pointer-events:none}.loader-atmosphere>span{position:absolute;left:50%;top:42%;transform:translate(-50%,-50%);font:800 clamp(300px,60vw,820px)/1 'Barlow Condensed',Impact,sans-serif;color:transparent;-webkit-text-stroke:1px #dc776426;letter-spacing:-.06em}
+.loader-track{position:absolute;width:140%;height:60%;bottom:-22%;left:-20%;transform:perspective(450px) rotateX(58deg);background:repeating-linear-gradient(90deg,transparent 0 15%,#fb6a4720 15% 15.15%,transparent 15.15% 30%),repeating-linear-gradient(0deg,transparent 0 79px,#fa72521a 80px 81px);mask-image:linear-gradient(transparent,#000 55%);animation:track-arrival 4.5s ease-out both}
+.loader-edition,.loader-footer{font:10px 'DM Sans',sans-serif;letter-spacing:2px;color:#bda8aa}.loader-edition{position:relative;margin-bottom:14px}.loader-brand{position:relative;font-size:clamp(32px,5vw,54px)}.loader-car{width:min(700px,88vw,88vh);z-index:1}.loader-start-lights{display:flex;gap:12px;position:relative;margin-top:-24px}.loader-start-lights i{width:13px;height:13px;border-radius:50%;border:1px solid #745251;background:#271b22;transition:background .35s,box-shadow .35s}.loader-start-lights i.lit{background:#ff5346;border-color:#ff9581;box-shadow:0 0 20px #ff372d80}.pulse-loader .loader-caption{position:relative;margin-top:22px;font:italic clamp(18px,2vw,25px) Georgia,serif;letter-spacing:.2px;color:#e6d8d1}.loader-footer{position:absolute;bottom:26px;left:32px;right:32px;display:flex;justify-content:space-between;gap:12px;font-size:9px}.loader-footer>span:nth-child(2){color:#e4b1a9;letter-spacing:.6px}
+@keyframes track-arrival{from{opacity:0;transform:perspective(450px) rotateX(58deg) translateY(60px)}to{opacity:1;transform:perspective(450px) rotateX(58deg) translateY(0)}}
+@media(max-width:600px){.loader-footer{left:20px;right:20px;font-size:8px}.loader-footer>span:last-child{display:none}.loader-edition{font-size:8px}.loader-start-lights{margin-top:0}.loader-car{width:98vw}}
+@media(prefers-reduced-motion:reduce){.loader-track{animation:none}.loader-start-lights i{transition:none}}

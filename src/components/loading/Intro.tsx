@@ -1,3 +1,4 @@
+import { useEffect, useState } from 'react'
 import { carImage } from '../../media'
 import '../../styles/loader.css'
 
@@ -5,8 +6,16 @@ import '../../styles/loader.css'
 const outline = 'M40 142 L169 112 Q187 110 201 119 L204 128 L197 138 L181 149 L177 158 L209 135 Q221 128 238 132 L239 124 L223 125 L223 120 L259 115 L263 117 L262 122 L249 126 L252 134 Q269 140 278 171 L317 165 L333 161 L339 166 L334 176 L348 194 L367 183 L390 174 L399 165 L403 166 L401 178 L379 190 L368 201 L399 213 L444 215 L466 220 Q476 184 500 180 Q533 174 552 193 Q572 214 576 252 L593 262 L614 254 L624 261 L612 268 L629 284 L642 287 L642 298 L630 308 L600 321 Q582 340 548 349 L501 356 L439 356 L437 376 L422 377 L398 371 L367 370 L339 365 Q309 375 288 366 Q265 357 252 333 L220 322 L212 310 L167 301 L112 278 Q85 291 60 283 Q34 269 29 239 Q24 218 28 204 Q29 189 44 184 L54 182 L48 174 L43 162 Z'
 
 export default function Intro() {
+  const [phase, setPhase] = useState(0)
+  useEffect(() => {
+    const timer = window.setInterval(() => setPhase(p => Math.min(p + 1, 4)), 850)
+    return () => window.clearInterval(timer)
+  }, [])
+  const captions = ['Welcome to the grid', 'Every driver. Every rivalry.', 'Find the story in the numbers', 'Make the car your own', 'Your front row awaits']
   return (
     <div className="pulse-loader" role="status" aria-label="Loading F1 Pulse">
+      <div className="loader-atmosphere" aria-hidden="true"><span>26</span><div className="loader-track" /></div>
+      <div className="loader-edition">FORMULA ONE / A NEW PERSPECTIVE</div>
       <div className="loader-brand">F1<span>PULSE</span><i /></div>
       <div className="loader-car">
         <img src={carImage} width="679" height="452" alt="" fetchPriority="high" />
@@ -15,7 +24,9 @@ export default function Intro() {
           <path d={outline} className="car-shimmer" pathLength="100" />
         </svg>
       </div>
-      <p>Preparing your racing universe…</p>
+      <div className="loader-start-lights" aria-hidden="true">{[0,1,2,3,4].map(n => <i key={n} className={n <= phase ? 'lit' : ''}/>)}</div>
+      <p className="loader-caption">{captions[phase]}</p>
+      <div className="loader-footer"><span>2026 SEASON</span><span>Opening F1 Pulse</span><span>EXPLORE / COMPARE / CREATE</span></div>
     </div>
   )
 }

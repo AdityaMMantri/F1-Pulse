@@ -16,6 +16,7 @@ import HciGuide from './components/HciGuide'
 import './styles/hci.css'
 import './App.css'
 import './styles/refinements.css'
+import './styles/editorial.css'
 const Garage = lazy(()=>import('./garage/Garage'))
 const navItems = [['/', 'home', 'Overview'], ['/drivers', 'drivers', 'Drivers'], ['/teams', 'teams', 'Teams'], ['/compare', 'compare', 'Compare'], ['/season', 'season', 'Season'], ['/circuits', 'circuits', 'Circuits'], ['/cars', 'cars', 'Garage']]
 function Search(){
