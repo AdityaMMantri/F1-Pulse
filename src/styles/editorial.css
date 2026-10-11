@@ -59,3 +59,50 @@ body .studio-controls .identity-inputs{grid-template-columns:100px minmax(0,1fr)
 .overview-aside .versus-art .portrait{width:75px;height:92px}
 @media(max-width:1000px){.overview-aside .compare-promo{display:block}.overview-aside .compare-promo>.versus-art{justify-content:flex-start;margin:14px 0}}
 @media(max-width:680px){.dashboard-lower .championship-feature,.dashboard-lower .overview-aside{grid-template-columns:minmax(0,1fr)}.championship-feature>.championship-leader{min-height:230px}.overview-aside .brief-next{padding:24px 0 0;border-left:0;border-top:1px solid #ffffff20}.overview-aside .compare-promo>.versus-art{justify-content:flex-start}.championship-feature>.standings{margin-top:0}}
+/* The rivalry uses the same open, ruled layout as the constructor standings. */
+.overview-aside .compare-promo{display:block;align-self:start;text-align:left;padding:0;border:0;border-radius:0;background:transparent;overflow:visible}
+.overview-aside .compare-promo>.eyebrow{font-family:var(--data-font);font-size:10px;letter-spacing:1.2px;color:#c1b3ad}
+.rivalry-heading{display:flex;align-items:center;justify-content:space-between;gap:16px;margin:18px 0 12px}
+.overview-aside .compare-promo h2{font:500 28px/1.2 Georgia,serif;letter-spacing:-.6px;margin:0}
+.rivalry-heading .brief-link{font-size:11px;white-space:nowrap;margin:0;padding:0}
+.overview-aside .compare-promo>p{font:400 13px/1.7 'DM Sans','Segoe UI',sans-serif;color:#9eacbb;max-width:60ch}
+.rivalry-drivers{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-top:26px;border-bottom:1px solid #ffffff20;padding-bottom:22px}
+.rivalry-drivers>a{display:flex;align-items:center;gap:14px;min-width:0;position:relative}
+.rivalry-drivers>a+ a{border-left:1px solid #ffffff16;padding-left:24px}
+.rivalry-drivers .portrait{width:78px;height:104px;object-fit:cover;object-position:top;border-radius:0;border-bottom:3px solid var(--team)}
+.rivalry-drivers>a>div{min-width:0}.rivalry-drivers small{font-size:12px;color:#aab7c7}.rivalry-drivers strong{display:block;font:600 clamp(20px,2vw,28px)/1.1 'Barlow Condensed',sans-serif;margin:5px 0 9px;text-transform:uppercase}
+.rivalry-drivers span{font-size:10px;color:#8d9bad;display:flex;align-items:center;gap:5px}.rivalry-drivers i{width:5px;height:5px;background:var(--team);border-radius:50%;flex-shrink:0}.rivalry-drivers b{position:absolute;top:0;right:0;font:500 26px 'Barlow Condensed',sans-serif;color:var(--team);opacity:.65}
+.rivalry-footer{display:flex;justify-content:space-between;gap:16px;align-items:center;margin-top:22px}.rivalry-footer>span{font:9px Consolas,monospace;color:#748195}.rivalry-footer>a{font-size:12px;color:#ff9b89}.rivalry-footer>a>span{margin-left:10px}
+@media(max-width:1050px){.rivalry-heading{align-items:flex-start;flex-direction:column;gap:12px}.rivalry-drivers{gap:12px}.rivalry-drivers>a+ a{padding-left:12px}.rivalry-drivers .portrait{width:58px;height:85px}.rivalry-drivers b{display:none}.rivalry-footer{align-items:flex-start;flex-direction:column}}
+@media(max-width:680px){.rivalry-drivers .portrait{width:70px;height:95px}.rivalry-heading{flex-direction:row;align-items:center}.overview-aside .compare-promo h2{font-size:24px}.rivalry-heading .brief-link{white-space:normal;text-align:right}.rivalry-drivers strong{font-size:24px}}
+@media(max-width:680px){.rivalry-drivers>a{gap:10px}.rivalry-drivers .portrait{width:54px;height:80px;flex-shrink:0}.rivalry-drivers strong{font-size:19px}.rivalry-drivers span{font-size:9px}}
+/* A changing invitation to compare, without duplicating the standings. */
+.overview-aside .driver-showcase{container-type:inline-size}
+.driver-showcase .rivalry-heading{margin:18px 0 12px}
+.driver-showcase .rivalry-drivers{position:relative;gap:48px;margin-top:24px;padding:24px 0 28px;border-top:1px solid #ffffff12;border-bottom:1px solid #ffffff20}
+.driver-showcase .rivalry-drivers>a{display:grid;grid-template-columns:minmax(64px,112px) minmax(0,1fr);gap:16px;align-items:center}
+.driver-showcase .rivalry-drivers>a+a{padding-left:0;border-left:0}
+.driver-showcase .rivalry-drivers .portrait{width:100%;height:160px;object-fit:cover;object-position:top;border-radius:0;flex-shrink:0}
+.driver-showcase .rivalry-drivers strong{font-size:clamp(23px,2.2vw,32px);overflow-wrap:anywhere}
+.driver-showcase .rivalry-drivers b{display:block;top:0;right:0;font-size:26px;opacity:.4;pointer-events:none}
+.driver-showcase .rivalry-vs{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);font:10px Consolas,monospace;letter-spacing:1px;color:#748195;background:#101115;padding:8px}
+.rivalry-topics{display:flex;flex-wrap:wrap;align-items:center;gap:12px 20px;padding:18px 0;font-size:11px;color:#8d9bad}
+.rivalry-topics span+span:before{content:'·';color:#ff9b89;margin-right:20px}
+.driver-showcase .rivalry-footer{margin-top:0;padding-top:18px;border-top:1px solid #ffffff12;align-items:center;flex-direction:row;flex-wrap:wrap;gap:14px 24px}
+.driver-showcase .rivalry-footer>a{font-size:13px;line-height:1.6}
+.rivalry-controls{display:flex;align-items:center;gap:14px;margin-left:auto}.rivalry-controls button{padding:4px 0;min-height:36px;font-size:11px;color:#9eacbb}.rivalry-controls button:hover{color:#f3f3f5}.rivalry-controls button+button{padding-left:14px;border-left:1px solid #ffffff20}.rivalry-controls span{margin-left:6px;font-size:16px}
+@container(max-width:530px){.driver-showcase .rivalry-drivers>a{grid-template-columns:minmax(0,1fr);justify-items:center;text-align:center;gap:16px}.driver-showcase .rivalry-drivers .portrait{width:120px;height:150px}.driver-showcase .rivalry-drivers span{justify-content:center}.driver-showcase .rivalry-drivers b{top:0;right:2px;font-size:22px}.driver-showcase .rivalry-drivers strong{font-size:27px}.driver-showcase .rivalry-vs{top:38%}.driver-showcase .rivalry-controls{margin-left:0}}
+@media(max-width:680px){.driver-showcase .rivalry-drivers{gap:32px}.driver-showcase .rivalry-drivers .portrait{width:108px;height:140px}.driver-showcase .rivalry-drivers strong{font-size:26px}.rivalry-topics{gap:10px;font-size:10px}.rivalry-topics span+span:before{margin-right:10px}.driver-showcase .rivalry-footer{align-items:flex-start;flex-direction:column}}
+/* Stronger matchup separator and numbers anchored beside each portrait. */
+.driver-showcase .rivalry-vs{font:800 italic 34px/1 'Barlow Condensed','Arial Narrow',sans-serif;letter-spacing:-1px;color:#ff9b89;padding:10px 4px;text-shadow:0 0 24px #ff705c30}
+.driver-showcase .rivalry-drivers b{left:128px;right:auto;top:3px;font-size:28px;opacity:.65}
+@container(max-width:530px){.driver-showcase .rivalry-drivers b{left:calc(50% + 44px);right:auto;top:6px;font-size:24px;text-shadow:0 1px 8px #000}}
+@media(max-width:680px){.driver-showcase .rivalry-vs{font-size:30px}.driver-showcase .rivalry-drivers b{left:calc(50% + 38px)}}
+/* Balance VS between the left driver identity and the right portrait. */
+.driver-showcase .rivalry-vs{left:calc(50% - 28px)}
+@container(max-width:700px){.driver-showcase .rivalry-vs{left:calc(50% - 12px)}}
+@container(max-width:530px){.driver-showcase .rivalry-vs{left:50%}}
+/* Center the separator in the measured gap between visible driver groups. */
+.driver-showcase .rivalry-drivers>a>div:not(.portrait){width:max-content;max-width:100%;justify-self:start}
+.driver-showcase .rivalry-vs{left:var(--rivalry-vs-left,50%)}
+@container(max-width:530px){.driver-showcase .rivalry-drivers>a>div:not(.portrait){justify-self:center}}

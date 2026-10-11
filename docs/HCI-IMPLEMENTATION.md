@@ -6,8 +6,12 @@ Turn on **HCI highlights** in the header. N codes refer to Norman; S codes refer
 
 - Overview shows the leader once, with rank 1, then the remaining top five.
 - The upcoming weekend appears only at the top; constructor standings complement the driver battle below.
+- The driver showcase rotates distinct random pairs from the full roster every 12 seconds without repeating championship positions or points. Its comparison link opens the displayed pair; New pairing and Pause/Resume keep rotation under user control (N3, N4, S7).
 - The recap derives from published race/sprint results and displays sync context. It is not an editorial news feed.
-- The F1 guide has chapter navigation, examples, a scoring table, result definitions and expandable strategy topics.
+- The F1 guide shows one of five chapters at a time. Direct links, sequential Next/Previous controls, an active chapter and progress indicator support orientation (N2, S8).
+- A weekend timeline and qualifying progression make sequence visible. Scoring bars and the worked 18 + 10 = 28 example distinguish driver scores from the constructor total (N1, N4).
+- Numbered native disclosures explain strategy through a definition, example and watching tips (N1, N7, S7, S8). The Corner/Straight switch updates the illustrative wing profile, airflow and explanation together (N3, N4, S7).
+- In HCI mode, Show this example opens the relevant guide chapter before focusing it, even when that chapter was hidden.
 - Garage groups paint, identity and artwork, with live preview, labelled saves and undo/redo.
 - Comparison offers period selection, graph presets, configurable metrics and reading guidance.
 
@@ -35,7 +39,7 @@ The championship leader appears once with rank and points; results show sync con
 
 Make the relationship between a control and its result natural.
 
-Team colours accompany names and numerical ranks. Chart legends identify each driver, while Garage surface selection directs the camera.
+The featured driver pair matches its comparison link. Wing modes update the illustration and explanation together, and scoring bars use a shared scale. Chart legends identify each driver, while Garage surface selection directs the camera.
 
 ### N5
 
@@ -95,7 +99,7 @@ Undo and Redo support experimentation with paint and artwork; reset can be cance
 
 Let users direct the interaction.
 
-Users choose chart period, metric, camera and guide disclosures. HCI mode can be hidden whenever it is no longer useful.
+Users can pause/resume the driver showcase or request a new random pairing. They also choose chart period, metric, camera, guide chapters, wing modes and strategy disclosures. HCI mode can be hidden whenever it is no longer useful.
 
 ### S8
 
