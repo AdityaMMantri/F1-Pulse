@@ -41,3 +41,4 @@
 .guide-glossary{counter-reset:strategy-topic}.guide-glossary .guide-detail{counter-increment:strategy-topic}.guide-glossary summary:before{content:'0' counter(strategy-topic);font:10px Consolas,monospace;color:#748195;letter-spacing:1px;margin-right:4px}
 .guide-pagination a{min-height:36px;display:flex;align-items:center}
 
+.aero-mode-switch .aero-playback{margin-left:auto;font-size:11px;display:flex;align-items:center;gap:8px}.aero-playback span{color:#91ddcc}.aero-demo svg g{transition:none}.aero-flow{animation:aero-airflow 1.8s linear infinite;animation-play-state:paused;opacity:.85}.aero-demo[data-flowing=true] .aero-flow{animation-play-state:running}@keyframes aero-airflow{to{stroke-dashoffset:-70}}@media(prefers-reduced-motion:reduce){.aero-flow{animation:none;opacity:0}}
